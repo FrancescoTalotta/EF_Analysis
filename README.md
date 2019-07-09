@@ -1,2 +1,2 @@
-# EF_Analysis
+# Exact Factorization Analysis
 Exact Factorization Analysis
