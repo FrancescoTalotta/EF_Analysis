@@ -1,7 +1,8 @@
  nb_be           2  number of electronic surfaces
  nb_act1           1  number of active coordinates
  nb_qa        1024  full number of grid points
-
+ tab_nq(:)        1024  number of grid points per basis set
+ Tmax,deltaT   2067.0686675125617        41.341373350251231     
   metric Tensor (nb_act1 x nb_act1)           1
  1        0.0005000000
 
